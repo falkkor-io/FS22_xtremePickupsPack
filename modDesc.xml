@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="63">
+    <author>Falkkor</author>
+    <version>0.0.0.0</version>
+    <title>
+        <en>Xtreme Pickups Pack</en>
+    </title>
+    <description>
+        <en>
+            <![CDATA[TBA]]>
+        </en>
+    </description>
+    <iconFilename>icon.dds</iconFilename>
+    <multiplayer supported="true" />
+    <storeItems>
+        <storeItem xmlFilename="vehicles/value" />
+    </storeItems>
+</modDesc>
