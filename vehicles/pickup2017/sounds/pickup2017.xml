@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<sounds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../shared/xml/schema/vehicle_sounds.xsd">
+    <motorized>
+        <sounds>
+            <motor template="engineMediumVintage" file="$data/vehicles/lizard/pickup2017/sounds/pickup2017_loop.gls" volumeScale="7.0"/>
+            <gearbox template="transmissionMedium"       file="$data/sounds/vehicles/transmission/transmissionLoop.wav" pitchScale="0.8"  volumeScale="0.1"/>
+            <gearGroupLeverStart template="gearDisengaged"/>
+            <gearGroupLeverEnd template="gearEngaged"/>
+            <gearLeverStart template="gearDisengaged"/>
+            <gearLeverEnd template="gearEngaged"/>
+        </sounds>
+    </motorized>
+
+    <lights>
+        <sounds>
+            <toggleLights template="SWITCH_01"  />
+            <turnLight template="SWITCH_TURNLIGHT"  />
+        </sounds>
+    </lights>
+
+    <attacherJoints>
+        <sounds>
+            <attach template="ATTACH_01" />
+            <hydraulic template="defaultHydraulicSound" />
+        </sounds>
+    </attacherJoints>
+
+    <drivable>
+        <sounds>
+            <waterSplash template="WATER_SPLASH_01" />
+        </sounds>
+    </drivable>
+
+    <honk>
+        <sound template="hornDefault" />
+    </honk>
+</sounds>
