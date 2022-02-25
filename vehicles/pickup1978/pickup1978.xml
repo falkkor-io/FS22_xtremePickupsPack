@@ -10,7 +10,7 @@
         <functions>
             <function>$l10n_function_car</function>
         </functions>
-        <image>files/store_pickup1978.png</image>
+        <image>vehicles/pickup1978/store_pickup1978.dds</image>
         <price>30000</price>
         <lifetime>1200</lifetime>
         <rotation>0</rotation>
@@ -25,8 +25,8 @@
     </storeData>
     <base>
         <typeDesc>$l10n_typeDesc_car</typeDesc>
-        <filename>pickup1978.i3d</filename>
-        <sounds filename="sounds/pickup1986.xml"/>
+        <filename>vehicles/pickup1978/pickup1978.i3d</filename>
+        <sounds filename="vehicles/pickup1978/sounds/pickup1986.xml"/>
         <size width="2.8" length="6.5"/>
         <components>
             <component centerOfMass="0 0.4 -0.1" solverIterationCount="10" mass="1800"/>

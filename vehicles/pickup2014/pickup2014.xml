@@ -3,7 +3,7 @@
     <annotation>Copyright (C) GIANTS Software GmbH, All Rights Reserved.</annotation>
 
     <storeData>
-        <name>Pickup 2014</name>
+        <name>Pickup 2014-X</name>
         <specs>
             <power>600</power>
             <maxSpeed>200</maxSpeed>
@@ -11,7 +11,7 @@
         <functions>
             <function>$l10n_function_car</function>
         </functions>
-        <image>files/store_pickup2014.png</image>
+        <image>vehicles/pickup2014/store_pickup2014.dds</image>
         <price>60000</price>
         <lifetime>1200</lifetime>
         <rotation>0</rotation>
@@ -26,8 +26,8 @@
     </storeData>
     <base>
         <typeDesc>$l10n_typeDesc_car</typeDesc>
-        <filename>pickup2014.i3d</filename>
-		<sounds filename="sounds/pickup2017.xml"/>
+        <filename>vehicles/pickup2014/pickup2014.i3d</filename>
+		<sounds filename="vehicles/pickup2014/sounds/pickup2017.xml"/>
         <size width="3" length="6.5"/>
          <components>
             <component centerOfMass="0 0.4 0.11" solverIterationCount="10" mass="2200" />
