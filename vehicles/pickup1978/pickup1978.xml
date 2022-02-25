@@ -202,15 +202,15 @@
                     <torque rpm="5280" torque="0.63"/>
                     <torque rpm="6000" torque="0.3"/>
                 </motor>
-                <transmission autoGearChangeTime="1" gearChangeTime="0.1" name="$l10n_info_transmission_manual" axleRatio="25" startGearThreshold="0.35">
+                <transmission autoGearChangeTime="0.2" gearChangeTime="0.2" name="$l10n_info_transmission_manual" axleRatio="25" startGearThreshold="0.35">
                     <directionChange useGear="true"/>
                     <backwardGear gearRatio="4.066" name="R"/>
-                    <forwardGear gearRatio="9.568"/>
-                    <forwardGear gearRatio="4.846"/>
-                    <forwardGear gearRatio="2.886"/>
-                    <forwardGear gearRatio="2.000"/>
-                    <forwardGear gearRatio="1.652"/>
-                    <forwardGear gearRatio="1.286"/>
+                    <forwardGear gearRatio="2.284"/>
+                    <forwardGear gearRatio="1.223"/>
+                    <forwardGear gearRatio="0.743"/>
+                    <forwardGear gearRatio="0.500"/>
+                    <forwardGear gearRatio="0.426"/>
+                    <forwardGear gearRatio="0.343"/>
                 </transmission>
             </motorConfiguration>
         </motorConfigurations>
