@@ -13,15 +13,15 @@
     <File fileId="13" filename="$data/shared/default_normal.png"/>
     <File fileId="21" filename="$data/shared/window_diffuse.png"/>
     <File fileId="22" filename="$data/shared/window_specular.png"/>
-    <File fileId="12" filename="vehicles/pickup2014/pickup2014Decal_diffuse.png"/>
-    <File fileId="18" filename="vehicles/pickup2014/pickup2014Interior_normal.png"/>
-    <File fileId="19" filename="vehicles/pickup2014/pickup2014Interior_specular.png"/>
-    <File fileId="10" filename="vehicles/pickup2014/pickup2014Lights_normal.png"/>
-    <File fileId="11" filename="vehicles/pickup2014/pickup2014Lights_specular.png"/>
-    <File fileId="8" filename="vehicles/pickup2014/pickup2014Wheels_normal.png"/>
-    <File fileId="9" filename="vehicles/pickup2014/pickup2014Wheels_specular.png"/>
-    <File fileId="2" filename="vehicles/pickup2014/pickup2014_normal.png"/>
-    <File fileId="3" filename="vehicles/pickup2014/pickup2014_specular.png"/>
+    <File fileId="12" filename="pickup2014Decal_diffuse.png"/>
+    <File fileId="18" filename="pickup2014Interior_normal.png"/>
+    <File fileId="19" filename="pickup2014Interior_specular.png"/>
+    <File fileId="10" filename="pickup2014Lights_normal.png"/>
+    <File fileId="11" filename="pickup2014Lights_specular.png"/>
+    <File fileId="8" filename="pickup2014Wheels_normal.png"/>
+    <File fileId="9" filename="pickup2014Wheels_specular.png"/>
+    <File fileId="2" filename="pickup2014_normal.png"/>
+    <File fileId="3" filename="pickup2014_specular.png"/>
   </Files>
 
 

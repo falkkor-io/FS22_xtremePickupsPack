@@ -16,15 +16,15 @@
     <File fileId="17" filename="$data/shared/default_specular.png"/>
     <File fileId="25" filename="$data/shared/window_diffuse.png"/>
     <File fileId="26" filename="$data/shared/window_specular.png"/>
-    <File fileId="15" filename="vehicles/pickup1978/pickup1978Decals_diffuse.png"/>
-    <File fileId="13" filename="vehicles/pickup1978/pickup1978Lights_normal.png"/>
-    <File fileId="14" filename="vehicles/pickup1978/pickup1978Lights_specular.png"/>
-    <File fileId="8" filename="vehicles/pickup1978/pickup1978Wheels_normal.png"/>
-    <File fileId="9" filename="vehicles/pickup1978/pickup1978Wheels_specular.png"/>
-    <File fileId="2" filename="vehicles/pickup1978/pickup1978_normal.png"/>
-    <File fileId="3" filename="vehicles/pickup1978/pickup1978_specular.png"/>
-    <File fileId="23" filename="vehicles/pickup1978/pickup1978interior_normal.png"/>
-    <File fileId="24" filename="vehicles/pickup1978/pickup1978interior_specular.png"/>
+    <File fileId="15" filename="pickup1978Decals_diffuse.png"/>
+    <File fileId="13" filename="pickup1978Lights_normal.png"/>
+    <File fileId="14" filename="pickup1978Lights_specular.png"/>
+    <File fileId="8" filename="pickup1978Wheels_normal.png"/>
+    <File fileId="9" filename="pickup1978Wheels_specular.png"/>
+    <File fileId="2" filename="pickup1978_normal.png"/>
+    <File fileId="3" filename="pickup1978_specular.png"/>
+    <File fileId="23" filename="pickup1978interior_normal.png"/>
+    <File fileId="24" filename="pickup1978interior_specular.png"/>
   </Files>
 
 
