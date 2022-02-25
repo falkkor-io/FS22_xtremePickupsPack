@@ -194,7 +194,7 @@
         </differentialConfigurations>
         <motorConfigurations>
            <motorConfiguration name="1978-X" hp="400">
-                <motor torqueScale="0.619" minRpm="1000" maxRpm="6000" accelerationLimit="6" maxForwardSpeed="175" maxBackwardSpeed="20" brakeForce="1.7" lowBrakeForceScale="0.22" dampingRateScale="0.15">
+                <motor torqueScale="0.794" minRpm="1000" maxRpm="6000" accelerationLimit="6" maxForwardSpeed="175" maxBackwardSpeed="20" brakeForce="1.7" lowBrakeForceScale="0.22" dampingRateScale="0.15">
                     <torque rpm="1000" torque="0.9"/>
                     <torque rpm="2400" torque="1"/>
                     <torque rpm="3480" torque="1"/>
@@ -202,15 +202,15 @@
                     <torque rpm="5280" torque="0.63"/>
                     <torque rpm="6000" torque="0.3"/>
                 </motor>
-                <transmission autoGearChangeTime="1" gearChangeTime="0.4" name="$l10n_info_transmission_manual" axleRatio="12" startGearThreshold="0.35">
+                <transmission autoGearChangeTime="1" gearChangeTime="0.4" name="$l10n_info_transmission_manual" axleRatio="25" startGearThreshold="0.35">
                     <directionChange useGear="true"/>
                     <backwardGear gearRatio="4.066" name="R"/>
-                    <forwardGear gearRatio="8.284"/>
-                    <forwardGear gearRatio="4.823"/>
-                    <forwardGear gearRatio="2.843"/>
-                    <forwardGear gearRatio="2.000"/>
-                    <forwardGear gearRatio="1.626"/>
-                    <forwardGear gearRatio="1.243"/>
+                    <forwardGear gearRatio="4.784"/>
+                    <forwardGear gearRatio="2.423"/>
+                    <forwardGear gearRatio="1.443"/>
+                    <forwardGear gearRatio="1.000"/>
+                    <forwardGear gearRatio="0.826"/>
+                    <forwardGear gearRatio="0.643"/>
                 </transmission>
             </motorConfiguration>
         </motorConfigurations>
