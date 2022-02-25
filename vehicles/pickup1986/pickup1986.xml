@@ -3,17 +3,17 @@
     <annotation>Copyright (C) GIANTS Software GmbH, All Rights Reserved.</annotation>
 
     <storeData>
-        <name>Pickup 1986</name>
+        <name>Pickup 1986-X</name>
         <specs>
-            <power>200</power>
-            <maxSpeed>120</maxSpeed>
+            <power>400</power>
+            <maxSpeed>175</maxSpeed>
         </specs>
         <functions>
             <function>$l10n_function_car</function>
         </functions>
         <image>$data/vehicles/lizard/pickup1986/store_pickup1986.png</image>
-        <price>25000</price>
-        <lifetime>600</lifetime>
+        <price>35000</price>
+        <lifetime>1200</lifetime>
         <rotation>0</rotation>
         <brand>LIZARD</brand>
         <category>cars</category>
@@ -251,8 +251,8 @@
         </differentialConfigurations>
 
         <motorConfigurations>
-           <motorConfiguration name="Pickup 1986" hp="200">
-                <motor torqueScale="0.4" minRpm="1000" maxRpm="6000" maxForwardSpeed="120" maxBackwardSpeed="20" brakeForce="1.7" lowBrakeForceScale="0.22" dampingRateScale="0.15">
+           <motorConfiguration name="1986-X" hp="400">
+                <motor torqueScale="0.619" minRpm="1000" maxRpm="6000" accelerationLimit="6" maxForwardSpeed="175" maxBackwardSpeed="20" brakeForce="1.7" lowBrakeForceScale="0.22" dampingRateScale="0.15">
                     <torque rpm="1000" torque="0.9"/>
                     <torque rpm="2400" torque="1"/>
                     <torque rpm="3480" torque="1"/>
