@@ -2,12 +2,12 @@
 <sounds xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../shared/xml/schema/vehicle_sounds.xsd">
     <motorized>
         <sounds>
-            <motorStart template="CAR_MOTOR_START"       file="sounds/lizard_pickup_2017_start.wav"     volumeScale="1.8"/>
-            <motorStop  template="CAR_MOTOR_STOP"        file="sounds/lizard_pickup_2017_stop.wav"      volumeScale="1.8"/>
-            <motor      template="CAR_MOTOR_IDLE"        file="sounds/lizard_pickup_2017_idle_loop.wav" volumeScale="1.7"/>
-            <motor      template="CAR_MOTOR_OFFLOAD_RUN" file="sounds/lizard_pickup_2017_run_loop.wav"  volumeScale="3.0"/>
-            <motor      template="CAR_MOTOR_ONLOAD_RUN"  file="sounds/lizard_pickup_2017_load_loop.wav" volumeScale="3.0"/>
-            <gearbox template="transmissionMedium"       file="sounds/transmissionLoop.wav" pitchScale="0.8"  volumeScale="0.1"/>
+            <motorStart template="CAR_MOTOR_START"       file="vehicles/pickup2014/sounds/lizard_pickup_2017_start.wav"     volumeScale="1.8"/>
+            <motorStop  template="CAR_MOTOR_STOP"        file="vehicles/pickup2014/sounds/lizard_pickup_2017_stop.wav"      volumeScale="1.8"/>
+            <motor      template="CAR_MOTOR_IDLE"        file="vehicles/pickup2014/sounds/lizard_pickup_2017_idle_loop.wav" volumeScale="1.7"/>
+            <motor      template="CAR_MOTOR_OFFLOAD_RUN" file="vehicles/pickup2014/sounds/lizard_pickup_2017_run_loop.wav"  volumeScale="3.0"/>
+            <motor      template="CAR_MOTOR_ONLOAD_RUN"  file="vehicles/pickup2014/sounds/lizard_pickup_2017_load_loop.wav" volumeScale="3.0"/>
+            <gearbox template="transmissionMedium"       file="vehicles/pickup2014/sounds/transmissionLoop.wav" pitchScale="0.8"  volumeScale="0.1"/>
             <gearGroupLeverStart template="gearDisengaged"/>
             <gearGroupLeverEnd template="gearEngaged"/>
             <gearLeverStart template="gearDisengaged"/>
